@@ -1,0 +1,17 @@
+{
+    "name": "orcafascio/poc-autenticacao-google-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aryanne Acosta",
+            "email": "aryanneacosta@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.15"
+    }
+}
